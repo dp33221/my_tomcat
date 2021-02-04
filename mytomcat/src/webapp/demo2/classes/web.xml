@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<web>
+    <servlet>
+        <servlet-name>DispatcherServlet</servlet-name>
+        <servlet-class>servlet.Demo2Servlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>DispatcherServlet</servlet-name>
+        <url-pattern>/demo2</url-pattern>
+    </servlet-mapping>
+
+
+</web>
